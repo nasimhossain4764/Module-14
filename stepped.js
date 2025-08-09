@@ -1,3 +1,4 @@
+// Example 01
 const price = 1500;
 if (price >= 5000) {
   // 10% discount
@@ -21,3 +22,8 @@ else if (price >= 1500) {
 else {
   console.log("Your Payment Amount is: ", price);
 }
+
+
+
+
+
